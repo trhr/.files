@@ -1,0 +1,6 @@
+#!/bin/bash
+dconf dump / > ~/.config/.gsettings_at_last_boot
+cd ~/
+git add -f ~/.config/.gsettings_at_last_boot
+git commit -m "gsettings_at_last_boot"
+
