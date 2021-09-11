@@ -1,0 +1,1 @@
+/home/ss/.config/zsh/.zprezto/runcoms/zshenv
