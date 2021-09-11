@@ -1,1 +1,0 @@
-/home/ss/.config/zsh/.zprezto/runcoms/zlogin
