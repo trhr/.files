@@ -1,0 +1,4 @@
+xrandr --output DisplayPort-0 --off \
+--output DisplayPort-1 --mode 1920x1080 --pos 0x240 --rotate left \
+--output DisplayPort-2 --mode 1920x1080 --pos 4920x240 --rotate right \
+--output HDMI-A-0 --primary --mode 3840x2160 --pos 1080x0 --rotate normal
