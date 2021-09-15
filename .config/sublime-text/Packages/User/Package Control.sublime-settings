@@ -5,6 +5,10 @@
 	],
 	"installed_packages":
 	[
-		"Theme - Brogrammer"
+		"Package Control",
+		"ShellCommand",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-yamllint",
+		"Theme - Brogrammer",
 	],
 }

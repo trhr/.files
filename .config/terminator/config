@@ -1,5 +1,4 @@
 [global_config]
-  dbus = False
   focus = mouse
   geometry_hinting = True
   scroll_tabbar = True
@@ -17,8 +16,8 @@
   title_use_system_font = False
   title_font = MesloLGS NF Bold 13
 [keybindings]
-  split_horiz = F3
-  split_vert = F4
+  split_horiz = <Primary><Shift>e
+  split_vert = <Primary><Shift>o
   close_term = <Primary><Shift>w
   broadcast_off = <Alt>o
   broadcast_group = <Alt>g

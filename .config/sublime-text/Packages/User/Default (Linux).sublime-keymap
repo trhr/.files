@@ -1,0 +1,24 @@
+[
+  {
+    "keys": ["alt+shift+g"],
+    "command": "shell_command",
+    "args": {
+      "command": "docker stack deploy",
+      "region": "arg",
+      "title": "Docker Stack Deploy",
+      "panel": true
+    }
+  },
+
+  {
+    "keys": ["alt+shift+c"],
+    "command": "shell_command",
+    "args": {
+      "command_prefix": "git",
+      "prompt": "Git Command",
+      "panel": true
+    }
+  }
+
+
+]

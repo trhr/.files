@@ -1,0 +1,11 @@
+[desktop entry]
+type=application
+name=Upwork
+comment=Upwork Desktop Application
+exec=/opt/Upwork/upwork %u
+startupnotify=false
+startupwmclass=upwork
+terminal=false
+icon=upwork
+encoding=utf-8
+categories=utility;
