@@ -5,10 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"LogView",
 		"Package Control",
+		"python-black",
+		"Rubyfmt",
 		"ShellCommand",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-terraform",
+		"SublimeLinter-contrib-yaml-lint",
 		"SublimeLinter-contrib-yamllint",
+		"Terraform",
 		"Theme - Brogrammer",
 	],
 }

@@ -1,0 +1,1 @@
+{"sublime_text": ">=4000", "version": "1.0.3", "platforms": ["*"], "url": "https://github.com/thep0y/python-black", "dependencies": [], "description": "Black formatter for  Sublime Text"}

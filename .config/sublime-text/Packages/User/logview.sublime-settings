@@ -1,0 +1,6 @@
+{
+    "error_filter": "level=error",
+    "auto_match_words": false,
+    "highlight_style": "fill",
+    "error_scope": "invalid"
+}
